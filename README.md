@@ -4,7 +4,8 @@
 
 - 🤔 &nbsp; Senior Front-end Developer.
 - :nerd_face: &nbsp; IT enthusiast passionated about technologies
-- 🎓 &nbsp; Graduating in Information Systems at Fundação Herminio Ometto.
+- 🎓 &nbsp; Studying Bachelor of Information Systems at Fundação Herminio Ometto.
+- 🎓 &nbsp; Graduated in WEB Information Technician at UNICAMP Limeira Brazil.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
