@@ -2,7 +2,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Senior Front-end Developer.
+- 🤔 &nbsp; Software Engineer Developer.
 - :nerd_face: &nbsp; IT enthusiast passionated about technologies
 - 🎓 &nbsp; Studying Bachelor of Information Systems at Fundação Herminio Ometto.
 - 🎓 &nbsp; Graduated in WEB Information Technician at UNICAMP Limeira Brazil.
