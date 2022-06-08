@@ -6,6 +6,7 @@
 - :nerd_face: &nbsp; IT enthusiast passionated about technologies
 - 🎓 &nbsp; Studying Bachelor of Information Systems at Fundação Herminio Ometto.
 - 🎓 &nbsp; Graduated in WEB Information Technician at UNICAMP Limeira Brazil.
+- 😲 &nbsp; Coding since 2019
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -15,6 +16,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma&logoColor=563D7C)
